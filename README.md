@@ -1,6 +1,6 @@
 ## Vampiro: A Máscara - Busca Rápida de Clãs ‍♂️
 
-### O que faz essa bagaça? 
+### O que faz essa aplicação? 
 Imagina você, um Vampiro da Noite, querendo saber tudo sobre um clã específico. Com essa ferramenta, você digita o nome do clã e *prontinho*, a ficha completa aparece na sua tela! É como ter a Biblioteca da Camarilla na palma da sua mão. 
 
 ### Como funciona a magia? 
